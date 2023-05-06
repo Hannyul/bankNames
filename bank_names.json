@@ -1,0 +1,32 @@
+[
+    {
+        "ar_name": "البنك  السعودي البريطاني", "en_name": "The Saudi British Bank", "code": "SABB"
+    },
+    {
+        "ar_name": "البنك الأهلي السعودي", "en_name": "Saudi National Bank", "code": "SNB"
+    },
+    {
+        "ar_name": "مصرف الراجحي", "en_name": "Al Rajhi Bank", "code": "RJHI"
+    },
+    {
+        "ar_name": "بنك الرياض", "en_name": "Riyad Bank", "code": "RIYAD"
+    },
+    {
+        "ar_name": "البنك السعودي للاستثمار", "en_name": "Saudi Investment Bank", "code": "SAIB"
+    },
+    {
+        "ar_name": "مصرف الإنماء", "en_name": "Alinma Bank", "code": "INMA"
+    },
+    {
+        "ar_name": "بنك البلاد", "en_name": "AlBilad Bank", "code": "ALBI"
+    },
+    {
+        "ar_name": "البنك العربي الوطني", "en_name": "Arab National Bank", "code": "ANB"
+    },
+    {
+        "ar_name": "البنك السعودي الفرنسي", "en_name": "Banque Saudi Fransi", "code": "BSF"
+    },
+    {
+        "ar_name": "بنك الجزيرة", "en_name": "AlJazira Bank", "code": "BJAZ"
+    }
+]
